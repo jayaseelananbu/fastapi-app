@@ -6,3 +6,12 @@ Make sure you have installed docker application (https://docs.docker.com/engine/
 Clone this app and run docker-compose up
 
 Navigate to http://localhost:8484/movies to see the results
+
+**References:**
+
+https://towardsdev.com/dockerize-your-apis-fastapi-part1-f44302652af9
+
+https://sourabhbajaj.com/mac-setup/Python/virtualenv.html
+
+https://hub.docker.com/_/python
+
