@@ -1,0 +1,12 @@
+#docker compose version
+version: "3"
+#mentioning all the services
+services:
+  api:
+    build: ./
+    image: fast-api-app
+    command: uvicorn main:app --reload --workers 1 --host 0.0.0.0 --port 8000
+    ports:
+      - 8484:8000 # host port : container port
+    volumes:
+      - ./:/app
