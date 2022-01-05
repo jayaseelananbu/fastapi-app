@@ -15,3 +15,7 @@ https://sourabhbajaj.com/mac-setup/Python/virtualenv.html
 
 https://hub.docker.com/_/python
 
+From the Fast API Author
+
+https://realpython.com/fastapi-python-web-apis/
+
